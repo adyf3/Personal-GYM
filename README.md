@@ -3,6 +3,7 @@
 一款本地优先的移动端网页应用，用于记录每日无氧训练、有氧训练容量，并查看趋势、动作最高记录和训练明细。
 
 应用面向 iPhone Safari / PWA 使用，无需后端、无需账号，训练数据默认保存在当前设备的浏览器本地存储中。
+<img width="1430" height="1100" alt="健身容量记录网页应用_UX效果图_v3" src="https://github.com/user-attachments/assets/4c1fceb2-b14d-4cbc-bf68-7690493a8e89" />
 
 ## 功能特性
 
