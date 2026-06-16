@@ -1,0 +1,18 @@
+{
+  "name": "健身容量记录",
+  "short_name": "训练容量",
+  "description": "本地记录无氧和有氧训练容量，并查看趋势。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#f7faf8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
